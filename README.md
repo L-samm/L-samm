@@ -1,12 +1,54 @@
-### Hi there 👋
+# ### Hi there 👋 I'm Sammuel
 
-# 💫 About Me:
-Hello, I'm a computer science student with as options : Cloud/Cybersecurity.
+# 🚀 Cloud & Platform Engineer Apprentice
+*Currently building scalable infrastructures and intelligent systems.*
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sammuel-l-968843244) 
+- ☁️ **Cloud Expertise**: Specialized in **Google Cloud Platform (GCP)** and Infrastructure as Code.
+- 🤖 **AI & Automation**: Building Multi-Agent systems and RAG architectures.
+- 🛠️ **Current Sprint**: Mastering **Golang** and preparing for **CKA (Certified Kubernetes Administrator)**.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=L-samm&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
+
+# 🛠️ Tech Stack & Ecosystem
+
+### ☁️ Cloud & Infrastructure (Core)
+![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 💻 Programming Languages
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🤖 AI & Data
+![Gemini](https://img.shields.io/badge/Gemini-AI-orange?style=for-the-badge&logo=google-gemini&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+# 🚧 Currently Building
+
+### 🎵 [Apple Music Discovery Engine](https://github.com/L-samm/apple-music-discovery)
+An intelligent platform engineer project:
+- **Infrastructure**: Full GCP setup via **Terraform**.
+- **Backend**: Scalable API built with **Go** and **Cloud Run**.
+- **Intelligence**: Reinforcement learning engine for personalized discovery.
+- **CI/CD**: Fully automated pipeline with GitHub Actions.
+
+---
+
+# 📊 Stats & Certifications
+- 🎓 **School**: Cloud & Cybersecurity/IoT
+- 📜 **In Progress**: CKA (Kubernetes) | Google Cloud Developer | IELTS (English)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=L-samm&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=L-samm&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+# 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sammuel-l-968843244)
