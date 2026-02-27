@@ -1,54 +1,32 @@
-# ### Hi there 👋 I'm Sammuel
+# 👋 I'm Sammuel
+### 🚀 Cloud & Platform Engineer Apprentice
+> *Currently building scalable infrastructures and intelligent systems with a focus on automation and reliability.*
+---
 
-# 🚀 Cloud & Platform Engineer Apprentice
-*Currently building scalable infrastructures and intelligent systems.*
+### 🛠️ Core Tech Ecosystem
 
-- ☁️ **Cloud Expertise**: Specialized in **Google Cloud Platform (GCP)** and Infrastructure as Code.
-- 🤖 **AI & Automation**: Building Multi-Agent systems and RAG architectures.
-- 🛠️ **Current Sprint**: Mastering **Golang** and preparing for **CKA (Certified Kubernetes Administrator)**.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud & IaC** | ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) |
+| **DevOps & CI/CD** | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white) |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TS-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Node](https://img.shields.io/badge/NodeJS-6DA55F?style=flat-square&logo=node.js&logoColor=white) |
+| **AI & Data** | ![Gemini](https://img.shields.io/badge/Gemini-AI-orange?style=flat-square&logo=google-gemini&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) |
 
 ---
 
-# 🛠️ Tech Stack & Ecosystem
-
-### ☁️ Cloud & Infrastructure (Core)
-![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 💻 Programming Languages
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🤖 AI & Data
-![Gemini](https://img.shields.io/badge/Gemini-AI-orange?style=for-the-badge&logo=google-gemini&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🎯 What I'm working on
+- ☁️ **Cloud Expertise**: Engineering robust solutions on **Google Cloud Platform**.
+- 🤖 **AI & Automation**: Architecting **Multi-Agent systems** and **RAG** (Retrieval-Augmented Generation) frameworks.
+- 🎓 **Education**: Specializing in **Cloud, Cybersecurity & IoT**.
 
 ---
 
-# 🚧 Currently Building
-
-### 🎵 [Apple Music Discovery Engine](https://github.com/L-samm/apple-music-discovery)
-An intelligent platform engineer project:
-- **Infrastructure**: Full GCP setup via **Terraform**.
-- **Backend**: Scalable API built with **Go** and **Cloud Run**.
-- **Intelligence**: Reinforcement learning engine for personalized discovery.
-- **CI/CD**: Fully automated pipeline with GitHub Actions.
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L-samm&theme=onedark&layout=compact&hide_border=false&include_all_commits=true" alt="L-samm's Top Langs" />
+</p>
 
 ---
 
-# 📊 Stats & Certifications
-- 🎓 **School**: Cloud & Cybersecurity/IoT
-- 📜 **In Progress**: CKA (Kubernetes) | Google Cloud Developer | IELTS (English)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=L-samm&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=L-samm&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-# 🌐 Connect with me:
+### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sammuel-l-968843244)
