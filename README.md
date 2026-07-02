@@ -17,7 +17,7 @@
 ### 🎯 What I'm working on
 - ☁️ **Cloud Expertise**: Engineering robust solutions on **Google Cloud Platform**.
 - 🤖 **AI & Automation**: Architecting **Multi-Agent systems** and **RAG** (Retrieval-Augmented Generation) frameworks.
-- 🎓 **Education**: Specializing in **Cloud, Cybersecurity & IoT**.
+- 🎓 **Education**: Specializing in **Cloud & Cybersecurity**.
 
 ---
 
